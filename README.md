@@ -1,2 +1,15 @@
 # assignment-2-deeplearning
 https://drive.google.com/drive/folders/1u9_r-h5LcXHjsqiQcQLwVxZUI4Qku96T?usp=share_link
+DESCRIPTION:
+1) GIVEN FIRST NAME
+GIVEN LAST NAME 
+PRINTED 
+OUTPUT ARRIVES 
+FIRST NAME AND LAST NAME 
+GOOD EVENING 
+GOOD 
+EVENING
+O/P: G VNN
+
+2) WORDS= WORD COUNT 
+O/P: PYTHON:1
