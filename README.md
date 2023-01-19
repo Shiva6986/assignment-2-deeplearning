@@ -1,7 +1,8 @@
 # assignment-2-deeplearning
 https://drive.google.com/drive/folders/1u9_r-h5LcXHjsqiQcQLwVxZUI4Qku96T?usp=share_link
 DESCRIPTION:
-1) GIVEN FIRST NAME
+program1
+GIVEN FIRST NAME
 GIVEN LAST NAME 
 PRINTED 
 OUTPUT ARRIVES 
@@ -11,7 +12,8 @@ GOOD
 EVENING
 O/P: G VNN
 
-2) Input=open("input.txt","r");
+program2 
+Input=open("input.txt","r");
 3) words=line.split();
 4) for words in d:
 5) d[word]=d[word]+1;
@@ -22,6 +24,7 @@ O/P: G VNN
 10) deep:1
 11) learning:1
 
+program3:
 3) data=input("enter coustomer heights");
 4) return value*2.54
 5) heights=data.split()
